@@ -1,1 +1,19 @@
-$null 
+/* Style Sheet for Beer */
+
+/* Simple CSS Reset */
+
+* {
+
+	margin: 0;
+	padding: 0;
+} 
+
+body {
+	background: url('images/beer_bubbles_amber_trans.jpg') top left repeat;
+
+}
+h1 {
+
+	color: #fff;
+
+}
